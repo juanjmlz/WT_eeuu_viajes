@@ -1,0 +1,77 @@
+.header nav { color:black;}
+.container { color:black;}
+.logowutang img {background-color: #343a40;
+width: 250px;
+height: 100%;}
+h2{ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+
+.wut { color: white;
+font-family:monospace; text-align: center;}
+h1{ color: white; text-align: center; font-family: monospace;}
+.card img { width: 350px; height: 200px;}
+.hh img { width: 134px; height: 96px;}
+
+
+
+.text-galileo{
+    color: #E2A42B !important;
+}
+
+.btn-galileo{
+    background-color:  #E2A42B;
+    color: black;
+}
+
+.btn-galileo:hover { background-color: #f3d7a0;}
+
+#header img{
+    width: 110px;
+}
+
+#main .carousel-inner img{
+    max-height: 80vh;
+    object-fit: cover;
+    filter: grayscale(70%);
+}
+
+#carousel {
+    position: relative;
+}
+
+#carousel .overlay{
+    z-index: 1;
+    position:absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white
+}
+
+#carousel .overlay .container,
+#carousel .overlay .row{
+    height: 110%;
+}
+
+#place-time{
+    background-color: #343a40;
+    color: white;
+}
+
+#place-time img{
+    max-width: 70%;
+}
+
+#footer{
+    background-color: #E2A42B;
+}
+
+#footer a{
+    color:black; 
+}
+
+#img-a{
+    height: 1px;
+    width: 1px;
+}
